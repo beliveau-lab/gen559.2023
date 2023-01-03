@@ -23,7 +23,7 @@ _Accept the license, proceed with the install in the default location, and selec
 
 7. Close your terminal and open a new terminal window <br/>
 
-8. Create a new conda enviroment named `gen559` with the necessary packages by entering the following command:
+8. Create a new conda enviroment named `gen559` with the necessary packages by entering the following command:  <br/>
 ```conda create --name gen559 notebook pandas``` <br/>
 
 9. When asked to proceed, enter `y` <br/>
