@@ -19,15 +19,18 @@ _Here, when you press the `tab` key, the shell should autocomplete the full file
 6. Run the installer by typing:
 ```bash Miniconda3 <tab>``` <br/>
 _Once again, when you press the `tab` key, the shell should autocomplete the full filename of the miniconda installer_ <br/>
+_Accept the license, proceed with the install in the default location, and select `Yes` when asked to allow conda to run init_ <br/>
 
-7. Create a new conda enviroment named `gen559` with the necessary packages by entering the following command:
+7. Close your terminal and open a new terminal window <br/>
+
+8. Create a new conda enviroment named `gen559` with the necessary packages by entering the following command:
 ```conda create --name gen559 notebook pandas``` <br/>
 
-8. When asked to proceed, enter `y` <br/>
+9. When asked to proceed, enter `y` <br/>
 
-9. After insallation, activate your enviroment by typing:
+10. After insallation, activate your enviroment by typing:
 ```conda activate gen559``` <br/>
 
-10. Activate Jupyter by entering the following command:
+11. Activate Jupyter by entering the following command:
 ```jupyter notebook```
 _After a brief pause, a Jupyter Notebook tab should open in your default web browser. You can test it out by selecting `New` from the top right corner._
