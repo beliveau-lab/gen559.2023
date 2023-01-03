@@ -32,5 +32,6 @@ _Accept the license, proceed with the install in the default location, and selec
 ```conda activate gen559``` <br/>
 
 11. Activate Jupyter by entering the following command:
-```jupyter notebook```
-_After a brief pause, a Jupyter Notebook tab should open in your default web browser. You can test it out by selecting `New` from the top right corner._
+```jupyter notebook```  
+_After a brief pause, a Jupyter Notebook tab should open in your default web browser._ <br/> 
+_You can test it out by selecting `New` from the top right corner._
